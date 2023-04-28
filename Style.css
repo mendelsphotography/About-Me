@@ -1,0 +1,17 @@
+body {
+    background-color: #3b847f;
+}
+
+h2, {
+    text-align: center;
+    color: #000000;
+}
+
+span {
+    margin: 100px;
+}
+
+h3,p {
+    text-align: center;
+    color: #f9f9f9;
+}
